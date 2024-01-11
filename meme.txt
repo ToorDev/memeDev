@@ -5,7 +5,7 @@
 //
 // Cependant, si tu essayes de l'optimiser et que ça ne
 // fonctionne pas (ce qui a de fortes chances d'arriver),
-// merci d'incrémenter ce compteur pur prévenir la prochaine
+// merci d'incrémenter ce compteur p0ur prévenir la prochaine
 // personne.
 //
 // nb_heures_perdues = 255;
